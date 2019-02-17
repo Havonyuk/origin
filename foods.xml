@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<foods>
+    <food>
+        <shop> Евроопт </shop>
+        <name> Молоко </name>
+        <maker> Лидское пиво </maker>
+        <group> Молочные товары </group>
+        <composition price = "1200"> Молоко </composition>
+    </food>
+    <food>
+        <shop> Копеечка </shop>
+        <name> Пельмени</name>
+        <maker> Сибирская фабрика</maker>
+        <group> Полуфабрикаты </group>
+        <composition price="2400"> Мясо,Тесто </composition>
+    </food>
+</foods>
+
+
